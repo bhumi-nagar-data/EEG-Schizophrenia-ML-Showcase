@@ -54,3 +54,8 @@ A comprehensive and detailed version of this project is kept **privately** for a
 - `src/` — Template scripts for preprocessing and modeling
 - `images/` — Sample visualizations (non-sensitive)
 - `docs/` — Additional documentation
+## Figures
+
+![Figure 1: End-to-End ML Pipeline (Leakage-Safe)](images/pipeline_overview.png)
+
+![Figure 2: Feature Curation, Selection, and Model Selection](images/feature_model_selection.png)
