@@ -16,16 +16,16 @@ This project showcases both **data analysis** and **machine learning** component
 
 ## High-Level Pipeline (Conceptual)
 The complete workflow includes:
-1. Data quality checks and cleaning (missing values, duplicates, constants).
-2. Careful separation of features and target to prevent data leakage. 
-3. The train/test split was done before any scaling or imputation.  
-4. Identification of numerical and categorical features.  
-5. Preprocessing using a column-wise transformation pipeline.  
-6. Feature curation and statistical feature selection.  
-7. Training several candidate models.  
-8. Model evaluation with stratified cross-validation.  
-9. Final model selection and evaluation with standard metrics.  
-10. Post-processing and inspecting selected features.  
+1. Data quality checks and cleaning (missing values, duplicates, constants)
+2. Careful separation of features and target to prevent data leakage
+3. The train/test split was done before any scaling or imputation 
+4. Identification of numerical and categorical features
+5. Preprocessing using a column-wise transformation pipeline
+6. Feature curation and statistical feature selection
+7. Training several candidate models
+8. Model evaluation with stratified cross-validation  
+9. Final model selection and evaluation with standard metrics
+10. Post-processing and inspecting selected features
 
 > Note: This public version intentionally provides a high-level summary of the methodology and does not reveal the full research pipeline.
 
